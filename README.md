@@ -1,20 +1,10 @@
 <div align="center">
 
-```
-░██████╗██╗░░░██╗██████╗░██╗░░██╗░█████╗░░██████╗██╗░██████╗
-██╔════╝██║░░░██║██╔══██╗██║░░██║██╔══██╗██╔════╝██║██╔════╝
-╚█████╗░██║░░░██║██████╦╝███████║███████║╚█████╗░██║╚█████╗░
-░╚═══██╗██║░░░██║██╔══██╗██╔══██║██╔══██║░╚═══██╗██║░╚═══██╗
-██████╔╝╚██████╔╝██████╦╝██║░░██║██║░░██║██████╔╝██║██████╔╝
-╚═════╝░░╚═════╝░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝╚═════╝
-```
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=7c6fff&height=200&section=header&text=Subhasis%20Mohanty&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Java%20Dev%20%7C%20Web%20Dev%20%7C%20DSA%20Grinder&descAlignY=58&descSize=16)
 
-### `// Hello, World! I'm Subhasis Mohanty` 👋
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7C6FFF&center=true&vCenter=true&width=500&lines=Java+Developer+%7C+DSA+Enthusiast;React+%26+Web+Dev+in+Progress;Video+Editor+%7C+2%2B+Years+Exp;Preparing+for+SWE+Internships+%F0%9F%9A%80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C6FFF&center=true&vCenter=true&width=500&lines=👋+Hello%2C+World!+I'm+Subhasis+Mohanty;☕+Java+Developer+%7C+DSA+Enthusiast;⚛️+Learning+React+%26+Modern+Web+Dev;🎬+Video+Editor+%7C+2%2B+Years+Exp;🎯+Seeking+SWE+Internships)](https://github.com/Subhasis1818)
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=Subhasis1818&icon=7&color=6)](https://visitcount.itsvg.in)
-&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/Subhasis1818?style=flat&color=7c6fff&labelColor=111118&label=Followers)
 
 </div>
@@ -26,18 +16,24 @@
 ```java
 public class Subhasis {
 
+    String name        = "Subhasis Mohanty";
     String university  = "ITER, Siksha 'O' Anusandhan University";
     String year        = "2nd Year — Computer Science";
-    String[] roles     = {"Java Developer", "Web Dev Learner", "DSA Grinder", "Video Editor"};
+    String[] roles     = {
+        "Java Developer",
+        "Web Dev Learner (React + Node.js)",
+        "DSA Grinder",
+        "Video Editor (2+ years)"
+    };
     String goal        = "Land a Software Engineering Internship 🎯";
 
     String[] currentlyLearning = {
         "Advanced React",
         "Graph Algorithms",
-        "Building real-world full-stack apps"
+        "Real-world Full-Stack Apps"
     };
 
-    String quote = "Building projects, solving problems, and improving every day.";
+    String quote = "Building projects, solving problems, improving every day. ⚡";
 }
 ```
 
@@ -64,7 +60,6 @@ public class Subhasis {
 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Creative**
@@ -72,11 +67,10 @@ public class Subhasis {
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Audition](https://img.shields.io/badge/Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Audition](https://img.shields.io/badge/Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
@@ -84,11 +78,14 @@ public class Subhasis {
 
 <div align="center">
 
-![Subhasis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhasis1818&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=7c6fff&icon_color=ff6b9d&text_color=e8e8f0)
+<img src="https://github-readme-stats.vercel.app/api?username=Subhasis1818&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhasis1818&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Subhasis1818&theme=tokyonight&hide_border=true&background=0a0a0f&ring=7c6fff&fire=ff6b9d&currStreakLabel=00e5c3)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhasis1818&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0a0a0f&title_color=7c6fff&text_color=e8e8f0)
+<div align="center">
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Subhasis1818&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -96,29 +93,39 @@ public class Subhasis {
 
 ## 📚 Currently Learning
 
-| 🔧 Topic | 📈 Progress |
+| Topic | Progress |
 |---|---|
-| ⚛️ Advanced React (Hooks, Context, Performance) | `██████░░░░` 60% |
-| 🔗 Graph Algorithms (BFS, DFS, Dijkstra, MST) | `█████░░░░░` 50% |
-| 🚀 Real-World Full-Stack Web Apps | `█████░░░░░` 55% |
+| ⚛️ Advanced React | `██████░░░░` 60% |
+| 🔗 Graph Algorithms | `█████░░░░░` 50% |
+| 🚀 Full-Stack Web Apps | `█████░░░░░` 55% |
 
 ---
 
-## ✍️ Dev Quote of the Day
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Subhasis1818&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## ✍️ Dev Quote
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Subhasis1818-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subhasis1818)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subhasis1818)
 
 </div>
 
@@ -126,6 +133,6 @@ public class Subhasis {
 
 <div align="center">
 
-*⚡ "Building projects, solving problems, and improving every day."*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=7c6fff&height=100&section=footer)
 
 </div>
